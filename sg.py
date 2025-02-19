@@ -4,8 +4,8 @@ c = a + b
 print("After adding the",a,"and",b,"=",c)
 
 d = a * b
-print("After adding the",a,"and",b,"=",c)
+print("After adding the",a,"and",b,"=",d)
 
 e = a % b
-print("After adding the",a,"and",b,"=",c)
+print("After adding the",a,"and",b,"=",e)
 
